@@ -7,4 +7,3 @@ for i in range(10):
 sum_of_numbers = sum(numbers)
 
 print("The sum of the numbers is:", sum_of_numbers)
-print("sav")
